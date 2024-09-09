@@ -87,5 +87,5 @@ The model is evaluated on the **training set** using accuracy as the primary met
 ---
 
 ## Authors
-This model card was prepared by **Al Muller** and the model was developed using PyTorch in a teaching/learning context.
+This model card was prepared by **Al Muller** and the model was developed using PyTorch.
 
